@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Cristhian Rodrigo]  
+- Certification: [Data and Cybersecurity]  
 
 ## Instructions
 Please replace the placeholders with your details:
